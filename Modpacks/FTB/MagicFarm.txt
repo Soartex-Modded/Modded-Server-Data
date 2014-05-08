@@ -7,7 +7,7 @@ ExtraCells
 Extra_Utilities
 Fancy_Fences
 Forestry
-Forge_Multipar
+Forge_Multipart
 Harvestcraft
 Iguana_Tweaks_TC
 Inventory_Tweaks
