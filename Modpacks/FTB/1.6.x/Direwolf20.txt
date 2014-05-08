@@ -19,7 +19,8 @@ IndustrialCraft_2
 Inventory_Tweaks
 Iron_Chests
 Logistics_Pipes
-Magic_BeesMinefactory_Reloaded
+Magic_Bees
+Minefactory_Reloaded
 Morph
 Mystcraft
 Natura
