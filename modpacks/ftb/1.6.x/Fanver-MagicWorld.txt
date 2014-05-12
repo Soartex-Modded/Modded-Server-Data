@@ -1,0 +1,17 @@
+Ars_Magica
+BetterStorage
+BiblioCraft
+Biomes_O_Plenty
+Chicken_Chunks
+Ender_Storage
+Forge_Multipart
+Inventory_Tweaks
+JABBA
+Magical_Crops
+Mystcraft
+Natura
+Not_Enough_Items
+Random_Things
+Thaumcraft_4
+Thaumic_Tinkerer
+Twilight_Forest

@@ -1,0 +1,8 @@
+Chicken_Chunks
+Extra_Utilities
+Forge_Multipart
+JABBA
+Minefactory_Reloaded
+Not_Enough_Items
+OpenBlocks
+Thaumcraft_4
