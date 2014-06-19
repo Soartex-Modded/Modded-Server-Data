@@ -1,4 +1,5 @@
 Applied_Energistics
+Auto_Packager
 BiblioCraft
 Big_Reactors
 Binnies_Mods
@@ -23,6 +24,7 @@ Magic_Bees
 Mariculture
 Minefactory_Reloaded
 Natura
+Nether_Ores
 Not_Enough_Items
 OpenBlocks
 Redstone_Arsenal
