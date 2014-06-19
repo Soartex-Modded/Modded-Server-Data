@@ -22,6 +22,7 @@ JABBA
 Magic_Bees
 Mariculture
 Minefactory_Reloaded
+Natura
 Not_Enough_Items
 OpenBlocks
 Redstone_Arsenal
