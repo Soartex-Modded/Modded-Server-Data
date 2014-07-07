@@ -12,6 +12,7 @@ Buildcraft_Additions
 Carpenters_Blocks
 Chisel
 Clay_Spawn
+Dimensional_Anchors
 Ender_IO
 Extra_Utilities
 ExtraCells
@@ -28,10 +29,12 @@ Lycanites_Mobs
 Mantle
 Minecraft_Comes_Alive
 Minefactory_Reloaded
+Natura
 Not_Enough_Items
 PneumaticCraft
 Random_Things
 Simple_Fluid_Tanks
+Spice_Of_Life
 SpaceCore
 Thaumcraft_4
 Thaumic_Tinkerer
