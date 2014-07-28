@@ -3,6 +3,7 @@ Applied_Energistics_2
 Archimedes_Ships
 Battlegear_2
 Battle_Towers
+Baubles
 BiblioCraft
 Biomes_O_Plenty
 Blood_Magic
