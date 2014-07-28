@@ -19,7 +19,6 @@ ExtraCells
 Forestry
 Forge_Multipart
 Hardcore_Ender_Expansion
-Harvestcraft
 Inventory_Tweaks
 Iron_Chests
 JABBA
@@ -31,6 +30,7 @@ Minecraft_Comes_Alive
 Minefactory_Reloaded
 Natura
 Not_Enough_Items
+Pams_HarvestCraft
 PneumaticCraft
 Random_Things
 Simple_Fluid_Tanks
