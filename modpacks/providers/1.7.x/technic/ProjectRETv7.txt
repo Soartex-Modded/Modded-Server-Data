@@ -15,6 +15,7 @@ Flaxbeards_SteamCraft
 Forestry
 Forge_Multipart
 Ganys_Mods
+GregTech
 Iguana_Tweaks_TC
 IndustrialCraft_2
 Inventory_Tweaks
