@@ -13,7 +13,7 @@ Buildcraft
 Carpenters_Blocks
 Chisel
 CoFH_Core
-Damage Indicators
+Damage_Indicators
 Description_Tags
 Dimensional_Anchors
 Electrical_Age
