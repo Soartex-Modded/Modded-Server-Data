@@ -1,12 +1,16 @@
 Another_One_Bites_The_Dust
 Applied_Energistics_2
 Aroma1997s_Dimension
+Aroma1997s_core
 Baubles
+Better_Chests
 BiblioCraft
 Big_Reactors
+Buildcraft
 Carpenters_Blocks
 Chisel
 CoFH_Core
+Enchiridion
 Ender_IO
 Ender_Storage
 Extra_Utilities
@@ -16,6 +20,7 @@ Forestry
 Forge_Multipart
 Ganys_Mods
 GregTech
+Hardcore_Questing_Mod
 Iguana_Tweaks_TC
 IndustrialCraft_2
 Inventory_Tweaks
@@ -34,6 +39,7 @@ Project_Red
 Railcraft
 Steves_Carts
 Thaumcraft_4
+Thaumic_Energistics
 Thermal_Expansion
 Tinker_Construct
 Tinker_Mechworks
