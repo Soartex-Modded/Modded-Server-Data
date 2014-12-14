@@ -1,5 +1,4 @@
 Advanced_Generators
-Advanced_Solar_Panel
 Applied_Energistics_2
 Aroma1997s_core
 Baubles
@@ -22,6 +21,7 @@ Gendustry
 Gravitation_Suite
 GregTech
 IndustrialCraft_2
+IndustrialCraft_Advanced_Solar_Panel
 IndustrialCraft_2_Nuclear_Control
 Inventory_Tweaks
 Iron_Chests

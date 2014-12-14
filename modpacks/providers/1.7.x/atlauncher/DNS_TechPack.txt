@@ -1,5 +1,4 @@
 Advanced_Generators
-Advanced_Solar_Panels
 Applied_Energistics_2
 Backpack_Mod
 Baubles
@@ -30,6 +29,7 @@ Gregs_Lighting
 Hats
 IndustrialCraft_2
 IndustrialCraft_Advanced_Machines
+IndustrialCraft_Advanced_Solar_Panel
 IndustrialCraft_2_Nuclear_Control
 InfiniTubes
 Inventory_Tweaks
