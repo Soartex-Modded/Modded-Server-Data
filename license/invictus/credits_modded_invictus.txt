@@ -1,0 +1,5 @@
+Goldbattle and Shoeboxam.
+
+Please find details in the respective modded repositories.
+
+[1.7.x]: https://github.com/InvictusGraphics/Modded-1.7.x

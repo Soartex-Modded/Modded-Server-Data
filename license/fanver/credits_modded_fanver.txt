@@ -1,0 +1,13 @@
+Many thanks to all!
+
+Original creator is Soar49:
+http://www.minecraftforum.net/topic/150915-
+
+The modded patches are created by an amazing community of contributors.
+Please find them in their respective modded repositories.
+
+[1.7.x]: https://github.com/Soartex-Modded/Modded-1.7.x/graphs/contributors
+[1.6.x]: https://github.com/Soartex-Modded/Modded-1.6.x/graphs/contributors
+[1.5.x]: https://github.com/Soartex-Modded/Modded-1.5.x/graphs/contributors
+[1.4.x]: https://github.com/Soartex-Modded/Modded-1.4.x/graphs/contributors
+[1.3.x]: https://github.com/Soartex-Modded/Modded-1.3.x/graphs/contributors
