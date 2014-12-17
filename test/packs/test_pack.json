@@ -1,0 +1,12 @@
+{
+  "name":"Test Modpack",
+  "version":"2.1",
+  "minecraft":"1.7.10",
+  "provider":"ftb",
+  "mods": [
+    "BuildCraft",
+    "ComputerCraft",
+    "Project_Red",
+    "Tinkers_Construct"
+  ]
+}
