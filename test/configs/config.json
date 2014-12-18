@@ -5,6 +5,8 @@
       "directory":"modded1.7.x",
       "provider":"fanver",
       "version":"1.7.x",
+      "downloads":true,
+      "enabled":true,
       "url":"https://github.com/Soartex-Modded/Modded-1.7.x.git"
     },
     {
@@ -12,6 +14,8 @@
       "directory":"modded1.6.x",
       "provider":"fanver",
       "version":"1.6.x",
+      "downloads":true,
+      "enabled":true,
       "url":"https://github.com/Soartex-Modded/Modded-1.6.x.git"
     },
     {
@@ -19,6 +23,8 @@
       "directory":"modded1.7.x",
       "provider":"invictus",
       "version":"1.7.x",
+      "downloads":true,
+      "enabled":true,
       "url":"https://github.com/InvictusGraphics/Modded-1.7.x.git"
     }
   ],

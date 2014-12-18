@@ -1,7 +1,7 @@
 {
-  "name":"Test Modpack 3",
-  "version":"2.0",
-  "minecraft":"1.6.x",
+  "name":"Test Modpack 4",
+  "version":"2.6",
+  "minecraft":"1.7.x",
   "provider":"ftb",
   "enabled":true,
   "resourcepacks":[
@@ -10,7 +10,6 @@
   "mods": [
     "Additional_Buildcraft_Objects",
     "Another_One_Bites_The_Dust",
-    "BiblioCraft",
-    "Buildcraft"
+    "BiblioCraft"
   ]
 }

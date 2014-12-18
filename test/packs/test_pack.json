@@ -3,6 +3,7 @@
   "version":"2.1",
   "minecraft":"1.7.x",
   "provider":"ftb",
+  "enabled":true,
   "resourcepacks":[
     "fanver",
     "invictus"
