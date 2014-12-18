@@ -1,6 +1,4 @@
 {
-  "fanver_version_1.7.10":"2.7.4",
-  "invictus_version_1.7.10":"1.0",
   "repositories":[
     {
       "name":"Modded 1.7.x",
@@ -13,6 +11,22 @@
       "directory":"fanver/modded1.6.x",
       "version":"1.6.4",
       "url":"https://github.com/Soartex-Modded/Modded-1.6.x.git"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name":"Soartex Fanver",
+      "slug":"fanver",
+      "version":"2.7.4",
+      "minecraft":"1.7.10",
+      "url":"fanver/vanilla/1.7.x/2.7.4/Soartex_Fanver.zip"
+    },
+    {
+      "name":"Invictus HD",
+      "slug":"invictus",
+      "version":"1.0",
+      "minecraft":"1.7.10",
+      "url":"invictus/vanilla/release/Invictus-1.0.zip"
     }
   ]
 }

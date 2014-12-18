@@ -3,6 +3,9 @@
   "version":"2.0",
   "minecraft":"1.6.4",
   "provider":"ftb",
+  "resourcepacks":[
+    "fanver"
+  ],
   "mods": [
     "Additional_Buildcraft_Objects",
     "Another_One_Bites_The_Dust",

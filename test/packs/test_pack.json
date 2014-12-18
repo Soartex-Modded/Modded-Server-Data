@@ -3,6 +3,10 @@
   "version":"2.1",
   "minecraft":"1.7.10",
   "provider":"ftb",
+  "resourcepacks":[
+    "fanver",
+    "invictus"
+  ],
   "mods": [
     "BuildCraft",
     "ComputerCraft",

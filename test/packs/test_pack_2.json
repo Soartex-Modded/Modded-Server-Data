@@ -3,6 +3,9 @@
   "version":"2.4",
   "minecraft":"1.7.10",
   "provider":"ftb",
+  "resourcepacks":[
+    "invictus"
+  ],
   "mods": [
     "BuildCraft",
     "ComputerCraft",
