@@ -1,4 +1,18 @@
 {
   "fanver_version_1.7.10":"2.7.4",
-  "invictus_version_1.7.10":"1.0"
+  "invictus_version_1.7.10":"1.0",
+  "repositories":[
+    {
+      "name":"Modded 1.7.x",
+      "directory":"modded1.6.x",
+      "version":"1.7.10",
+      "url":"https://github.com/Soartex-Modded/Modded-1.7.x.git"
+    },
+    {
+      "name":"Modded 1.6.x",
+      "directory":"modded1.6.x",
+      "version":"1.6.4",
+      "url":"https://github.com/Soartex-Modded/Modded-1.6.x.git"
+    }
+  ]
 }
