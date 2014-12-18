@@ -2,19 +2,22 @@
   "repositories":[
     {
       "name":"Fanver Modded 1.7.x",
-      "directory":"fanver/modded1.7.x",
+      "directory":"modded1.7.x",
+      "provider:"fanver",
       "version":"1.7.x",
       "url":"https://github.com/Soartex-Modded/Modded-1.7.x.git"
     },
     {
       "name":"Fanver Modded 1.6.x",
-      "directory":"fanver/modded1.6.x",
+      "directory":"modded1.6.x",
+      "provider:"fanver",
       "version":"1.6.x",
       "url":"https://github.com/Soartex-Modded/Modded-1.6.x.git"
     },
     {
       "name":"Invictus Modded 1.7.x",
-      "directory":"invictus/modded1.7.x",
+      "directory":"modded1.7.x",
+      "provider:"invictus",
       "version":"1.7.x",
       "url":"https://github.com/InvictusGraphics/Modded-1.7.x.git"
     }
