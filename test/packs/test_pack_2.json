@@ -1,7 +1,7 @@
 {
   "name":"Test Modpack 2",
   "version":"2.4",
-  "minecraft":"1.7.10",
+  "minecraft":"1.7.x",
   "provider":"ftb",
   "resourcepacks":[
     "invictus"

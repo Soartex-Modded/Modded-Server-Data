@@ -1,7 +1,7 @@
 {
   "name":"Test Modpack 3",
   "version":"2.0",
-  "minecraft":"1.6.4",
+  "minecraft":"1.6.x",
   "provider":"ftb",
   "resourcepacks":[
     "fanver"
