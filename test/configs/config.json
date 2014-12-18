@@ -28,22 +28,29 @@
       "url":"https://github.com/InvictusGraphics/Modded-1.7.x.git"
     }
   ],
-  "resourcepacks":[
-    {
-      "name":"Soartex Fanver",
-      "slug":"fanver",
-      "enabled":true,
-      "version":"2.7.4",
-      "minecraft":"1.7.x",
-      "url":"fanver/vanilla/1.7.x/2.7.4/Soartex_Fanver.zip"
+  "resourcepacks":{
+    "fanver":{
+      "1.7.x":{
+        "name":"Soartex Fanver",
+        "enabled":true,
+        "version":"2.7.4",
+        "url":"fanver/vanilla/1.7.x/2.7.4/Soartex_Fanver.zip"
+      },
+      "1.6.x":{
+        "name":"Soartex Fanver",
+        "enabled":true,
+        "version":"2.6.4",
+        "url":"fanver/vanilla/1.6.x/Soartex_Fanver.zip"
+      }
     },
-    {
-      "name":"Invictus HD",
-      "slug":"invictus",
-      "enabled":true,
-      "version":"1.0",
-      "minecraft":"1.7.x",
-      "url":"invictus/vanilla/release/Invictus-1.0.zip"
+    "invictus":{
+      "1.7.x":{
+        "name":"Invictus HD",
+        "slug":"invictus",
+        "enabled":true,
+        "version":"1.0",
+        "url":"invictus/vanilla/release/Invictus-1.0.zip"
+      }
     }
-  ]
+  }
 }
