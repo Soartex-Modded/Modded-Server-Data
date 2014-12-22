@@ -2,7 +2,6 @@
   "repositories":[
     {
       "name":"Fanver Modded 1.7.x",
-      "directory":"modded1.7.x",
       "provider":"fanver",
       "version":"1.7.x",
       "downloads":true,
@@ -11,7 +10,6 @@
     },
     {
       "name":"Fanver Modded 1.6.x",
-      "directory":"modded1.6.x",
       "provider":"fanver",
       "version":"1.6.x",
       "downloads":true,
@@ -20,7 +18,6 @@
     },
     {
       "name":"Invictus Modded 1.7.x",
-      "directory":"modded1.7.x",
       "provider":"invictus",
       "version":"1.7.x",
       "downloads":true,
