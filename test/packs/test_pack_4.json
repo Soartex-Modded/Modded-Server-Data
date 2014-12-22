@@ -1,12 +1,16 @@
 {
   "name":"Test Modpack 4",
   "version":"2.6",
-  "minecraft":"1.7.x",
+  "minecraft":[
+    "1.7.x"
+  ],
   "provider":"ftb",
   "enabled":true,
-  "resourcepacks":[
-    "fanver"
-  ],
+  "resourcepacks":{
+    "fanver":[
+      "1.7.x"
+    ]
+  },
   "mods": [
     "Additional_Buildcraft_Objects",
     "Another_One_Bites_The_Dust",
