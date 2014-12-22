@@ -28,13 +28,13 @@
   "resourcepacks":{
     "fanver":{
       "1.7.x":{
-        "name":"Soartex Fanver",
+        "name":"Fanver",
         "enabled":true,
         "version":"2.7.4",
         "url":"fanver/vanilla/1.7.x/2.7.4/Soartex_Fanver.zip"
       },
       "1.6.x":{
-        "name":"Soartex Fanver",
+        "name":"Fanver",
         "enabled":true,
         "version":"2.6.4",
         "url":"fanver/vanilla/1.6.x/Soartex_Fanver.zip"
@@ -42,7 +42,7 @@
     },
     "invictus":{
       "1.7.x":{
-        "name":"Invictus HD",
+        "name":"Invictus",
         "slug":"invictus",
         "enabled":true,
         "version":"1.0",
