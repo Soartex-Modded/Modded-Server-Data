@@ -1,16 +1,15 @@
 {
   "name":"Test Modpack 3",
   "version":"2.0",
+  "type":"standard",
   "minecraft":[
     "1.6.x"
   ],
   "provider":"ftb",
   "enabled":true,
-  "resourcepacks":{
-    "fanver":[
-      "1.6.x"
-    ]
-  },
+  "resourcepacks":[
+    "fanver"
+  ],
   "mods": [
     "Additional_Buildcraft_Objects",
     "Another_One_Bites_The_Dust",

@@ -1,16 +1,15 @@
 {
   "name":"Test Modpack 2",
   "version":"2.4",
+  "type":"standard",
   "minecraft":[
     "1.7.x"
   ],
   "provider":"ftb",
   "enabled":true,
-  "resourcepacks":{
-    "invictus":[
-      "1.7.x"
-    ]
-  },
+  "resourcepacks":[
+    "invictus"
+  ],
   "mods": [
     "BuildCraft",
     "ComputerCraft",

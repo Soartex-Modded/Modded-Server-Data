@@ -1,24 +1,18 @@
 {
   "name":"Test Modpack",
   "version":"2.1",
+  "type":"standard",
   "minecraft":[
     "1.7.x",
     "1.6.x"
   ],
   "provider":"ftb",
   "enabled":true,
-  "resourcepacks":{
-    "fanver":[
-      "1.7.x",
-      "1.6.x"
-    ],
-    "invictus":[
-      "1.7.x"
-    ],
-    "bogus":[
-      "1.7.x"
-    ]
-  },
+  "resourcepacks":[
+    "fanver",
+    "invictus",
+    "bogus"
+  ],
   "mods":[
     "BuildCraft",
     "ComputerCraft",
