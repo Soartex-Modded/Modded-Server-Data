@@ -14,9 +14,10 @@
     "bogus"
   ],
   "mods":[
-    "BuildCraft",
-    "ComputerCraft",
-    "Project_Red",
-    "Tinkers_Construct"
+    "advancedgenetics",
+    "aobd",
+    "appliedenergistics2",
+    "Baubles",
+    "FoodPlus"
   ]
 }
