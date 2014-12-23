@@ -46,7 +46,10 @@
         "slug":"invictus",
         "enabled":true,
         "version":"1.0",
-        "url":"invictus/vanilla/release/Invictus-1.0.zip"
+        "url":"invictus/vanilla/release/Invictus-1.0.zip",
+        "dependency":[
+          "fanver"
+        ]
       }
     }
   }
