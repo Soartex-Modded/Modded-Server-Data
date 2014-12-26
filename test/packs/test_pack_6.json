@@ -1,0 +1,16 @@
+{
+  "name":"Test Modpack 6",
+  "version":"2.9",
+  "type":"universal",
+  "minecraft":[
+    "1.7.x"
+  ],
+  "enabled":true,
+  "resourcepacks":[
+    "fanver",
+    "invictus"
+  ],
+  "blacklist":[
+    "somemodid"
+  ]
+}
