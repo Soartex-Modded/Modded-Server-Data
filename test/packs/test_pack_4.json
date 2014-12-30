@@ -2,10 +2,10 @@
   "name":"Test Modpack 4",
   "version":"2.6",
   "type":"standard",
+  "provider":"ftb",
   "minecraft":[
     "1.7.x"
   ],
-  "provider":"ftb",
   "enabled":true,
   "resourcepacks":[
     "fanver"

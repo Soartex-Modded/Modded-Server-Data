@@ -2,11 +2,11 @@
   "name":"Test Modpack",
   "version":"2.1",
   "type":"standard",
+  "provider":"ftb",
   "minecraft":[
     "1.7.x",
     "1.6.x"
   ],
-  "provider":"ftb",
   "enabled":true,
   "resourcepacks":[
     "fanver",
