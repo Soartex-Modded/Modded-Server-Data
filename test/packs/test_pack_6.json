@@ -1,11 +1,13 @@
 {
   "name":"Test Modpack 6",
   "version":"2.9",
-  "type":"universal",
+  "type":"modded_universal",
+  "provider":"soartex",
+  "enabled":true,
+  "is_public": true,
   "minecraft":[
     "1.7.x"
   ],
-  "enabled":true,
   "resourcepacks":[
     "fanver",
     "invictus"

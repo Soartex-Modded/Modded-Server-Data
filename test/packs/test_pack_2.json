@@ -1,12 +1,13 @@
 {
   "name":"Test Modpack 2",
   "version":"2.4",
-  "type":"standard",
+  "type":"modded_standard",
   "provider":"ftb",
+  "enabled":true,
+  "is_public": true,
   "minecraft":[
     "1.7.x"
   ],
-  "enabled":true,
   "resourcepacks":[
     "invictus"
   ],

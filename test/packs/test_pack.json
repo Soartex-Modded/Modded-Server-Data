@@ -1,13 +1,14 @@
 {
   "name":"Test Modpack",
   "version":"2.1",
-  "type":"standard",
+  "type":"modded_standard",
   "provider":"ftb",
+  "enabled":true,
+  "is_public": true,
   "minecraft":[
     "1.7.x",
     "1.6.x"
   ],
-  "enabled":true,
   "resourcepacks":[
     "fanver",
     "invictus",

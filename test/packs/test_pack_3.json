@@ -1,18 +1,19 @@
 {
   "name":"Test Modpack 3",
   "version":"2.0",
-  "type":"standard",
+  "type":"modded_standard",
   "provider":"ftb",
+  "enabled":true,
+  "is_public": true,
   "minecraft":[
     "1.6.x"
   ],
-  "enabled":true,
   "resourcepacks":[
     "fanver"
   ],
   "mods": [
     "Additional_Buildcraft_Objects",
-    "Another_One_Bites_The_Dust",
+    "aobd",
     "BiblioCraft",
     "Buildcraft"
   ]
