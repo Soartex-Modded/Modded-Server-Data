@@ -31,6 +31,7 @@ Iron_Chests
 JABBA
 JourneyMap
 Mantle
+Magic_Bees
 Minefactory_Reloaded
 Modular_Powersuits
 Morph
