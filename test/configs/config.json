@@ -30,8 +30,8 @@
       "1.7.x":{
         "name":"Fanver",
         "enabled":true,
-        "version":"2.7.4",
-        "url_pack":"fanver/vanilla/1.7.x/2.7.4/Soartex_Fanver.zip"
+        "version":"2.7.5",
+        "url_pack":"fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip"
       },
       "1.6.x":{
         "name":"Fanver",
