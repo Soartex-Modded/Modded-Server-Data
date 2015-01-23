@@ -1,6 +1,6 @@
 {
   "name":"Sky Factory 2",
-  "version":"2.2.2",
+  "version":"2.2.3",
   "type":"modded_standard",
   "provider":"atlauncher",
   "enabled":true,
@@ -64,6 +64,7 @@
     "Sync",
     "TabulaRasa",
     "ThermalExpansion",
+    "ThermalFoundation",
     "TConstruct",
     "UtilityMobs",
     "waila",
