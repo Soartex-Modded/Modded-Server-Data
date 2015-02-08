@@ -1,0 +1,18 @@
+{
+  "name":"Jadedcats Mixpack",
+  "version":"0.0.1",
+  "type":"modded_universal",
+  "provider":"soartex",
+  "enabled":true,
+  "is_public": true,
+  "minecraft":[
+    "1.7.x"
+  ],
+  "resourcepacks":[
+    "jadedcats_mixpack_vanilla"
+  ],
+  "overrides":{
+    "file_name":"Jadedcats Mixpack",
+    "output_location":"mixpacks/jadedcat/"
+  }
+}

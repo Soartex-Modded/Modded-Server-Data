@@ -23,6 +23,14 @@
       "downloads":true,
       "enabled":true,
       "url_repo":"https://github.com/InvictusGraphics/Modded-1.7.x.git"
+    },
+    {
+      "name":"Soartex Overrides 1.7.x",
+      "provider":"soartex_overrides",
+      "version":"1.7.x",
+      "downloads":true,
+      "enabled":true,
+      "url_repo":"https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
     }
   ],
   "resourcepacks":{
@@ -46,6 +54,17 @@
         "enabled":true,
         "version":"1.0",
         "url_pack":"invictus/vanilla/release/Invictus-1.0.zip",
+        "dependency":[
+          "fanver"
+        ]
+      }
+    },
+    "jadedcats_mixpack_vanilla":{
+      "1.7.x":{
+        "name":"Jadedcat's Mixpack Vanilla",
+        "enabled":true,
+        "version":"0.0.1",
+        "url_pack":"mixpacks/jadedcat/Jadedcats_Mixpack_Vanilla.zip",
         "dependency":[
           "fanver"
         ]
