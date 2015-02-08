@@ -28,7 +28,7 @@
       "name":"Soartex Overrides 1.7.x",
       "provider":"soartex_overrides",
       "version":"1.7.x",
-      "downloads":true,
+      "downloads":false,
       "enabled":true,
       "url_repo":"https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
     }
