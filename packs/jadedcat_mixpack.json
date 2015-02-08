@@ -13,6 +13,7 @@
   ],
   "overrides":{
     "file_name":"Jadedcats Mixpack",
+    "ignore_mcmeta":true,
     "repository":"soartex_overrides",
     "output_location":"mixpacks/jadedcat/"
   }
