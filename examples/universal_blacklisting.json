@@ -1,6 +1,6 @@
 {
-  "name":"Test Modpack 5",
-  "version":"2.9",
+  "name":"Universal Blacklisting",
+  "version":"0.0.1",
   "type":"modded_universal",
   "provider":"soartex",
   "enabled":true,
@@ -11,5 +11,8 @@
   "resourcepacks":[
     "fanver",
     "invictus"
+  ],
+  "blacklist":[
+    "appliedenergistics2"
   ]
 }

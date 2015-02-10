@@ -1,6 +1,6 @@
 {
-  "name":"Test Modpack 6",
-  "version":"2.9",
+  "name":"Universal",
+  "version":"1.3.5",
   "type":"modded_universal",
   "provider":"soartex",
   "enabled":true,
@@ -11,8 +11,5 @@
   "resourcepacks":[
     "fanver",
     "invictus"
-  ],
-  "blacklist":[
-    "appliedenergistics2"
   ]
 }
