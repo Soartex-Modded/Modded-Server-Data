@@ -39,7 +39,14 @@
         "name":"Fanver",
         "enabled":true,
         "version":"2.7.5",
-        "url_pack":"fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip"
+        "url_pack":"fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip",
+        "api":{
+          "curse_upload":{
+            "modded_universal":{
+              "project_id":"227770"
+            }
+          }
+        }
       },
       "1.6.x":{
         "name":"Fanver",
