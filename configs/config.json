@@ -41,8 +41,8 @@
         "version":"2.7.5",
         "url_pack":"fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip",
         "api":{
-          "curse_upload":{
-            "modded_universal":{
+          "modded_universal":{
+            "curseforge_upload":{
               "project_id":"227770"
             }
           }
