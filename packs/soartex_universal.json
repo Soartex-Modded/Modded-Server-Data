@@ -14,9 +14,10 @@
   ],
   "api":{
     "curseforge_upload":{
-      "changelog":"%s Universal \nBuilt: %s\n Commit: %s",
+      "changelog":"{github_commits}",
       "game_versions":[4449],
-      "release_type":"release"
+      "release_type":"release",
+      "display_name":"{resourcepack_name} Universal"
     }
   }
 }
