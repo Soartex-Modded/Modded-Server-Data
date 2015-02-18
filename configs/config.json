@@ -43,7 +43,8 @@
         "api":{
           "modded_universal":{
             "curseforge_upload":{
-              "project_id":"227770"
+              "project_id":"227770",
+              "git_url":"https://github.com/Soartex-Modded/Modded-1.7.x/"
             }
           }
         }
