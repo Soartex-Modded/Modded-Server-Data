@@ -16,7 +16,7 @@
     "curseforge_upload":{
       "changelog":"{github_commits}",
       "game_versions":[4449],
-      "release_type":"release",
+      "release_type":"beta",
       "display_name":"{resourcepack_name} Universal"
     }
   }
