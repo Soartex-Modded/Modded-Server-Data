@@ -17,7 +17,7 @@
       "changelog":"{github_commits}",
       "changelogType":"html",
       "game_versions":[4449],
-      "release_type":"beta",
+      "release_type":"release",
       "display_name":"{resourcepack_name} Universal"
     }
   }
