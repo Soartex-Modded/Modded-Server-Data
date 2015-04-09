@@ -1,6 +1,6 @@
 {
   "name":"Project Phoenix",
-  "version":"0.1",
+  "version":"0.2.9",
   "type":"modded_standard",
   "provider":"technic",
   "enabled":true,
@@ -35,7 +35,6 @@
     "Forestry", 
     "ForgeMultipart", 
     "Galacticraft", 
-    "gregtech_addon", 
     "HardcoreQuesting", 
     "IguanaTweaksTConstruct", 
     "IC2", 
@@ -55,6 +54,7 @@
     "projectred", 
     "RandomThings", 
     "StevesCarts", 
+    "ThermalDynamics", 
     "ThermalExpansion", 
     "ThermalFoundation", 
     "TConstruct", 
