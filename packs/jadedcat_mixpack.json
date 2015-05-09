@@ -16,5 +16,10 @@
     "ignore_mcmeta":true,
     "repository":"soartex_overrides",
     "output_location":"mixpacks/jadedcat/"
+  },
+  "api": {
+    "soartex_cms": {
+      "ignore": true
+    }
   }
 }
