@@ -1,5 +1,6 @@
 {
   "name":"FTB Direwolf20",
+  "slug":"direwolf20",
   "version":"1.0.3",
   "type":"modded_standard",
   "provider":"ftb",

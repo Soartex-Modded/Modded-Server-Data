@@ -1,5 +1,6 @@
 {
   "name":"FTB Infinity",
+  "slug":"infinity",
   "version":"1.0.1",
   "type":"modded_standard",
   "provider":"ftb",
