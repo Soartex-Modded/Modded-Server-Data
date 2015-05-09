@@ -64,7 +64,15 @@
         "url_pack":"invictus/vanilla/release/Invictus-1.0.zip",
         "dependency":[
           "fanver"
-        ]
+        ],
+        "api":{
+          "modded_universal":{
+            "curseforge_upload":{
+              "project_id":"228360",
+              "git_url":"https://github.com/Soartex-Modded/Modded-1.7.x/"
+            }
+          }
+        }
       }
     },
     "jadedcats_mixpack_vanilla":{
