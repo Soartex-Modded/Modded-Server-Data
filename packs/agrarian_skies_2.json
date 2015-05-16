@@ -1,6 +1,6 @@
 {
   "name":"Agrarian Skies 2",
-  "version":"1.0.39",
+  "version":"1.0.41",
   "type":"modded_standard",
   "provider":"curse",
   "enabled":true,
@@ -49,8 +49,6 @@
     "inventorytweaks",
     "JABBA",
     "journeymap",
-    "jsonables",
-    "KitchenCraft",
     "MagicBees",
     "Mantle",
     "MineFactoryReloaded",
@@ -77,10 +75,9 @@
     "ThermalDynamics",
     "ThermalExpansion",
     "ThermalFoundation",
-    "recycling",
+    "thaumicenergistics",
     "townbuilder",
     "TravellersGear",
-    "trophyslots",
     "waila"
   ]
 }
