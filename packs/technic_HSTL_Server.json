@@ -1,6 +1,6 @@
 {
   "name":"HSTL Server",
-  "version":"3.6.7",
+  "version":"3.6.8",
   "type":"modded_standard",
   "provider":"technic",
   "enabled":true,
@@ -14,10 +14,12 @@
   ],
   "mods":[
     "aobd",
+    "AppleCore",
     "appliedenergistics2",
     "arsmagica2",
     "Baubles",
     "BiblioCraft",
+    "BigReactors",
     "Binnies_Mods",
     "AWWayofTime",
     "Buildcraft",
