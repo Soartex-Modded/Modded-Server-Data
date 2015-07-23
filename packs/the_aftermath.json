@@ -1,6 +1,6 @@
 {
-  "name":"The Aftermath HQM Hardcore",
-  "version":"0.0.2",
+  "name":"The Aftermath",
+  "version":"0.6.2",
   "type":"modded_standard",
   "provider":"atlauncher",
   "enabled":true,
@@ -32,7 +32,7 @@
     "EnderIO",
     "EnderStorage",
     "enviromine",
-    "exastris",
+    "exastrisrebirth",
     "exnihilo",
     "ExtraUtilities",
     "Forestry",
@@ -55,7 +55,6 @@
     "harvestcraft",
     "PneumaticCraft",
     "projectred",
-    "reciperesearch",
     "RedstoneArsenal",
     "simplyjetpacks",
     "solarcraft",
@@ -69,6 +68,10 @@
     "waila",
     "ZombieAwareness",
     "DamageIndicatorsMod",
-    "StartingInventory"
+    "StartingInventory",
+    "betterstorage",
+    "chancecubes",
+    "storagedrawers",
+    "zelda"
   ]
 }
