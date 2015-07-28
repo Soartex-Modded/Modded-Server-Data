@@ -28,5 +28,10 @@ This will change the contents of the downloads here: http://soartex.net/download
 
 ### Note:
 
-Not all packs added on here will be automatically added to the website this can be download to various reasons. Sometimes packs will be added as a "hidden" download and you need to request to have a link for the download. But if you would like your pack added to the site as a download or if you have a question regarding hidden downloads, please post an
-issue here or email us: contactsoartexfanver@gmail.com
+Not all packs added on here will be automatically added to the website this can be due to various reasons. Sometimes packs will be added as a "hidden" download and you need to request to have a link for the download. But if you would like your pack added to the site as a download, or if you have a question regarding hidden downloads please contact us by:
+- posting and issue here
+- using our contact form https://soartex.net/contact/
+- emailing us at support@soartex.net
+
+
+
