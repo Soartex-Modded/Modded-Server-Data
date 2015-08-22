@@ -1,8 +1,8 @@
 {
   "name":"Sinful Skies",
-  "version":"1.1 Beta",
+  "version":"1.8e Beta",
   "type":"modded_standard",
-  "provider":"atlauncher",
+  "provider":"curse",
   "enabled":true,
   "is_public": true,
   "minecraft":[
@@ -20,6 +20,7 @@
     "BiblioCraft",
     "BigReactors",
     "CarpentersBlocks",
+    "chancecubes",
     "ChickenChunks",
     "chisel",
     "CoFHCore",
