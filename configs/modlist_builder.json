@@ -1,0 +1,10 @@
+{
+  "blacklisted": [
+    "mcp",
+    "FML",
+    "Forge",
+    "NEIAddons",
+    "neiintegration",
+    "neiplugins"
+  ]
+}
