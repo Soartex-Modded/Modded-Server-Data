@@ -5,6 +5,49 @@
     "forge",
     "neiaddons",
     "neiintegration",
-    "neiplugins"
-  ]
+    "neiplugins",
+    "codechickencore",
+    "\\u003ccofh asm\\u003e",
+    "minetweaker3",
+    "modtweaker2",
+    "veinminer",
+    "veinminermodsupport",
+    "veinminermodintegration",
+    "mcmultipart",
+    "fmpintegration",
+    "forgemicroblock",
+    "bibliowoodsbop",
+    "bibliowoodsnatura",
+    "thaumictinkerer-preloader"
+  ],
+  "overrides": {
+    "buildcraft|core": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|builders": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|energy": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|factory": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|silicon": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|transport": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    },
+    "buildcraft|robotics": {
+      "6": "BuildCraft",
+      "7": "BuildCraft_7"
+    }
+  }
 }
