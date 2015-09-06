@@ -1,9 +1,9 @@
 {
   "blacklisted": [
     "mcp",
-    "FML",
-    "Forge",
-    "NEIAddons",
+    "fml",
+    "forge",
+    "neiaddons",
     "neiintegration",
     "neiplugins"
   ]
