@@ -1,6 +1,6 @@
 {
   "name":"Beyond Reality",
-  "version":"2.8.x",
+  "version":"2.3.x",
   "type":"modded_standard",
   "provider":"atlauncher",
   "enabled":true,
@@ -89,6 +89,7 @@
     "thaumicenergistics",
     "ThaumicExploration",
     "ThaumicTinkerer",
+    "trashslot",
     "TravellersGear",
     "ttCore",
     "TwilightForest",
