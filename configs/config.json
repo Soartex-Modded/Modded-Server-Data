@@ -1,89 +1,122 @@
 {
-  "repositories":[
+  "repositories": [
     {
-      "name":"Fanver Modded 1.7.x",
-      "provider":"fanver",
-      "version":"1.7.x",
-      "downloads":true,
-      "enabled":true,
-      "url_repo":"https://github.com/Soartex-Modded/Modded-1.7.x.git"
+      "name": "Fanver Modded 1.8.x",
+      "provider": "fanver",
+      "version": "1.8.x",
+      "downloads": true,
+      "enabled": false,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.8.x.git"
     },
     {
-      "name":"Fanver Modded 1.6.x",
-      "provider":"fanver",
-      "version":"1.6.x",
-      "downloads":true,
-      "enabled":true,
-      "url_repo":"https://github.com/Soartex-Modded/Modded-1.6.x.git"
+      "name": "Fanver Modded 1.7.x",
+      "provider": "fanver",
+      "version": "1.7.x",
+      "downloads": true,
+      "enabled": false,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.7.x.git"
     },
     {
-      "name":"Invictus Modded 1.7.x",
-      "provider":"invictus",
-      "version":"1.7.x",
-      "downloads":true,
-      "enabled":true,
-      "url_repo":"https://github.com/InvictusGraphics/Modded-1.7.x.git"
+      "name": "Fanver Modded 1.6.x",
+      "provider": "fanver",
+      "version": "1.6.x",
+      "downloads": true,
+      "enabled": false,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.6.x.git"
     },
     {
-      "name":"Soartex Overrides 1.7.x",
-      "provider":"soartex_overrides",
-      "version":"1.7.x",
-      "downloads":false,
-      "enabled":true,
-      "url_repo":"https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
+      "name": "Invictus Modded 1.7.x",
+      "provider": "invictus",
+      "version": "1.7.x",
+      "downloads": true,
+      "enabled": false,
+      "url_repo": "https://github.com/InvictusGraphics/Modded-1.7.x.git"
+    },
+    {
+      "name": "Soartex Overrides 1.7.x",
+      "provider": "soartex_overrides",
+      "version": "1.7.x",
+      "downloads": false,
+      "enabled": false,
+      "url_repo": "https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
+    },
+    {
+      "name": "Johh Smith Modded 1.7.x",
+      "provider": "jstr",
+      "version": "1.7.x",
+      "downloads": true,
+      "enabled": true,
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.7.x.git"
+    },
+    {
+      "name": "Johh Smith Modded 1.8.x",
+      "provider": "jstr",
+      "version": "1.8.x",
+      "downloads": true,
+      "enabled": false,
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.8.x.git"
     }
   ],
-  "resourcepacks":{
-    "fanver":{
-      "1.7.x":{
-        "name":"Fanver",
-        "enabled":true,
-        "version":"2.7.5",
-        "url_pack":"fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip",
-        "api":{
-          "modded_universal":{
-            "curseforge_upload":{
-              "project_id":"227770",
-              "git_url":"https://github.com/Soartex-Modded/Modded-1.7.x/"
+  "resourcepacks": {
+    "fanver": {
+      "1.7.x": {
+        "name": "Fanver",
+        "enabled": true,
+        "version": "2.7.5",
+        "url_pack": "fanver/vanilla/1.7.x/2.7.5/Soartex_Fanver.zip",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "227770",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
             }
           }
         }
       },
-      "1.6.x":{
-        "name":"Fanver",
-        "enabled":true,
-        "version":"2.6.4",
-        "url_pack":"fanver/vanilla/1.6.x/Soartex_Fanver.zip"
+      "1.6.x": {
+        "name": "Fanver",
+        "enabled": true,
+        "version": "2.6.4",
+        "url_pack": "fanver/vanilla/1.6.x/Soartex_Fanver.zip"
       }
     },
-    "invictus":{
-      "1.7.x":{
-        "name":"Invictus",
-        "enabled":true,
-        "version":"1.0",
-        "url_pack":"invictus/vanilla/release/Invictus-1.0.zip",
-        "dependency":[
+    "invictus": {
+      "1.7.x": {
+        "name": "Invictus",
+        "enabled": true,
+        "version": "1.0",
+        "url_pack": "invictus/vanilla/release/Invictus-1.0.zip",
+        "dependency": [
           "fanver"
         ],
-        "api":{
-          "modded_universal":{
-            "curseforge_upload":{
-              "project_id":"228360",
-              "git_url":"https://github.com/Soartex-Modded/Modded-1.7.x/"
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "228360",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
             }
           }
         }
       }
     },
-    "jadedcats_mixpack_vanilla":{
-      "1.7.x":{
-        "name":"Jadedcat's Mixpack Vanilla",
-        "enabled":true,
-        "version":"0.0.1",
-        "url_pack":"mixpacks/jadedcat/Jadedcats_Mixpack_Vanilla.zip",
-        "dependency":[
+    "jadedcats_mixpack_vanilla": {
+      "1.7.x": {
+        "name": "Jadedcat's Mixpack Vanilla",
+        "enabled": true,
+        "version": "0.0.1",
+        "url_pack": "mixpacks/jadedcat/Jadedcats_Mixpack_Vanilla.zip",
+        "dependency": [
           "fanver"
         ]
+      }
+    },
+    "jstr": {
+      "1.7.x": {
+        "name": "John Smith Technicians Remix",
+        "enabled": true,
+        "version": "0.0.1",
+        "url_pack": "jstr/vanilla/1.7.x/John_Smith_Legacy.zip",
+        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.zip"
       }
     }
   },
