@@ -53,7 +53,7 @@
       "provider": "jstr",
       "version": "1.8.x",
       "downloads": true,
-      "enabled": false,
+      "enabled": true,
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.8.x.git"
     }
   ],
