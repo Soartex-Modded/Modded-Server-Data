@@ -116,7 +116,7 @@
         "enabled": true,
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.7.x/John_Smith_Legacy.zip",
-        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.zip",
+        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.tar.gz",
         "extract_src": "JSTR-Vanilla-1.7.x-master"
       }
     }
