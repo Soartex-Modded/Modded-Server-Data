@@ -5,7 +5,7 @@
       "provider": "fanver",
       "version": "1.8.x",
       "downloads": true,
-      "enabled": true,
+      "enabled": false,
       "url_repo": "https://github.com/Soartex-Modded/Modded-1.8.x.git"
     },
     {
@@ -13,7 +13,7 @@
       "provider": "fanver",
       "version": "1.7.x",
       "downloads": true,
-      "enabled": true,
+      "enabled": false,
       "url_repo": "https://github.com/Soartex-Modded/Modded-1.7.x.git"
     },
     {
@@ -21,7 +21,7 @@
       "provider": "fanver",
       "version": "1.6.x",
       "downloads": true,
-      "enabled": true,
+      "enabled": false,
       "url_repo": "https://github.com/Soartex-Modded/Modded-1.6.x.git"
     },
     {
@@ -29,7 +29,7 @@
       "provider": "invictus",
       "version": "1.7.x",
       "downloads": true,
-      "enabled": true,
+      "enabled": false,
       "url_repo": "https://github.com/InvictusGraphics/Modded-1.7.x.git"
     },
     {
@@ -37,7 +37,7 @@
       "provider": "soartex_overrides",
       "version": "1.7.x",
       "downloads": false,
-      "enabled": true,
+      "enabled": false,
       "url_repo": "https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
     },
     {
@@ -45,7 +45,7 @@
       "provider": "jstr",
       "version": "1.7.x",
       "downloads": true,
-      "enabled": false,
+      "enabled": true,
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.7.x.git"
     },
     {
@@ -116,7 +116,8 @@
         "enabled": true,
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.7.x/John_Smith_Legacy.zip",
-        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.zip"
+        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.zip",
+        "extract_src": "JSTR-Vanilla-1.7.x-master"
       }
     }
   },
