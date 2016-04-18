@@ -112,7 +112,7 @@
     },
     "jstr": {
       "1.7.x": {
-        "name": "John Smith Technicians Remix",
+        "name": "JSTR",
         "enabled": true,
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.7.x/John_Smith_Legacy.zip",
@@ -120,7 +120,7 @@
         "extract_src": "JSTR-Vanilla-1.7.x-master"
       },
       "1.8.x": {
-        "name": "John Smith Technicians Remix",
+        "name": "JSTR",
         "enabled": true,
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.8.x/John_Smith_Legacy.zip",
