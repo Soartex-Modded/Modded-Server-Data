@@ -9,7 +9,8 @@
     "1.7.x"
   ],
   "resourcepacks":[
-    "fanver"
+    "fanver",
+    "jstr"
   ],
   "mods":[
     "AppleCore",

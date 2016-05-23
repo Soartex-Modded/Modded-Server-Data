@@ -11,7 +11,8 @@
   ],
   "resourcepacks":[
     "fanver",
-    "invictus"
+    "invictus",
+    "jstr"
   ],
   "api":{
     "curseforge_upload":{
