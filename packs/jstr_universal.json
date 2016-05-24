@@ -9,9 +9,11 @@
   "minecraft":[
     "1.7.x"
   ],
+  "blacklist": [
+    "johnsmithsmooth"
+  ],
   "resourcepacks":[
-    "fanver",
-    "invictus"
+    "jstr"
   ],
   "api":{
     "curseforge_upload":{
