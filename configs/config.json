@@ -117,7 +117,15 @@
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.7.x/John_Smith_Legacy.zip",
         "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.7.x/archive/master.zip",
-        "extract_src": "JSTR-Vanilla-1.7.x-master"
+        "extract_src": "JSTR-Vanilla-1.7.x-master",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "223328",
+              "git_url": "https://github.com/John-Smith-Modded/JSTR-Modded-1.7.x/"
+            }
+          }
+        }
       },
       "1.8.x": {
         "name": "JSTR",
@@ -125,7 +133,15 @@
         "version": "0.0.1",
         "url_pack": "jstr/vanilla/1.8.x/John_Smith_Legacy.zip",
         "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.8.x/archive/master.zip",
-        "extract_src": "JSTR-Vanilla-1.8.x-master"
+        "extract_src": "JSTR-Vanilla-1.8.x-master",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "223328",
+              "git_url": "https://github.com/John-Smith-Modded/JSTR-Modded-1.8.x"
+            }
+          }
+        }
       }
     }
   },
