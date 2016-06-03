@@ -1,21 +1,21 @@
 {
-  "name":"Jadedcats Mixpack",
-  "version":"0.0.1",
-  "type":"modded_universal",
-  "provider":"soartex",
-  "enabled":true,
+  "name": "Jadedcats Mixpack",
+  "version": "0.0.1",
+  "type": "modded_universal",
+  "provider": "soartex",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "jadedcats_mixpack_vanilla"
   ],
-  "overrides":{
-    "file_name":"Jadedcats Mixpack",
-    "ignore_mcmeta":true,
-    "repository":"soartex_overrides",
-    "output_location":"mixpacks/jadedcat/"
+  "overrides": {
+    "file_name": "Jadedcats Mixpack",
+    "ignore_mcmeta": true,
+    "repository": "soartex_overrides",
+    "output_location": "mixpacks/jadedcat/"
   },
   "api": {
     "soartex_cms": {

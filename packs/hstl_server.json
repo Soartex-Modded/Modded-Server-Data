@@ -1,18 +1,18 @@
 {
-  "name":"HSTL Server",
-  "version":"3.6.8",
-  "type":"modded_standard",
-  "provider":"technic",
-  "enabled":true,
+  "name": "HSTL Server",
+  "version": "3.6.8",
+  "type": "modded_standard",
+  "provider": "technic",
+  "enabled": true,
   "is_public": false,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver",
     "invictus"
   ],
-  "mods":[
+  "mods": [
     "aobd",
     "AppleCore",
     "appliedenergistics2",

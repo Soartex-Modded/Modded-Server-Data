@@ -1,17 +1,17 @@
 {
-  "name":"Sinful Skies",
-  "version":"1.8e Beta",
-  "type":"modded_standard",
-  "provider":"curse",
-  "enabled":true,
+  "name": "Sinful Skies",
+  "version": "1.8e Beta",
+  "type": "modded_standard",
+  "provider": "curse",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver"
   ],
-  "mods":[
+  "mods": [
     "aobd",
     "AppleCore",
     "appliedenergistics2",

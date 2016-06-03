@@ -1,20 +1,20 @@
 {
-  "name":"FTB Direwolf20",
-  "slug":"direwolf20",
-  "version":"1.0.3",
-  "type":"modded_standard",
-  "provider":"ftb",
-  "enabled":true,
+  "name": "FTB Direwolf20",
+  "slug": "direwolf20",
+  "version": "1.0.3",
+  "type": "modded_standard",
+  "provider": "ftb",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver",
     "invictus",
     "jstr"
   ],
-  "mods":[
+  "mods": [
     "aobd",
     "appliedenergistics2",
     "Aroma1997Core",

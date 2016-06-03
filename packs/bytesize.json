@@ -1,17 +1,17 @@
 {
-  "name":"Bytesize",
-  "version":"0.0.8",
-  "type":"modded_standard",
-  "provider":"atlauncher",
-  "enabled":true,
+  "name": "Bytesize",
+  "version": "0.0.8",
+  "type": "modded_standard",
+  "provider": "atlauncher",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver"
   ],
-  "mods":[
+  "mods": [
     "appliedenergistics2",
     "BuildCraft",
     "chisel",

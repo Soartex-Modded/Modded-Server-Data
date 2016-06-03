@@ -1,18 +1,18 @@
 {
-  "name":"DNS Techpack",
-  "version":"7.5.4.9",
-  "type":"modded_standard",
-  "provider":"atlauncher",
-  "enabled":true,
+  "name": "DNS Techpack",
+  "version": "7.5.4.9",
+  "type": "modded_standard",
+  "provider": "atlauncher",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver",
     "invictus"
   ],
-  "mods":[
+  "mods": [
     "AdvancedMachines",
     "AdvancedSolarPanel",
     "appliedenergistics2",

@@ -1,17 +1,17 @@
 {
-  "name":"Beyond Reality",
-  "version":"2.3.x",
-  "type":"modded_standard",
-  "provider":"atlauncher",
-  "enabled":true,
+  "name": "Beyond Reality",
+  "version": "2.3.x",
+  "type": "modded_standard",
+  "provider": "atlauncher",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver"
   ],
-  "mods":[
+  "mods": [
     "AdvancedSolarPanel",
     "AppleCore",
     "appliedenergistics2",

@@ -1,20 +1,20 @@
 {
-  "name":"FTB Infinity",
-  "slug":"infinity",
-  "version":"1.0.1",
-  "type":"modded_standard",
-  "provider":"ftb",
-  "enabled":true,
+  "name": "FTB Infinity",
+  "slug": "infinity",
+  "version": "1.0.1",
+  "type": "modded_standard",
+  "provider": "ftb",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver",
     "invictus",
     "jstr"
   ],
-  "mods":[
+  "mods": [
     "AdvancedSolarPanel",
     "AgriCraft",
     "aobd",

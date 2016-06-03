@@ -1,25 +1,25 @@
 {
-  "name":"Modded Universal",
-  "slug":"universal-pack",
-  "version":"1.3.5",
-  "type":"modded_universal",
-  "provider":"soartex",
-  "enabled":true,
+  "name": "Modded Universal",
+  "slug": "universal-pack",
+  "version": "1.3.5",
+  "type": "modded_universal",
+  "provider": "soartex",
+  "enabled": true,
   "is_public": true,
-  "minecraft":[
+  "minecraft": [
     "1.7.x"
   ],
-  "resourcepacks":[
+  "resourcepacks": [
     "fanver",
     "invictus"
   ],
-  "api":{
-    "curseforge_upload":{
-      "changelog":"{github_commits}",
-      "changelogType":"html",
-      "game_versions":[4449],
-      "release_type":"release",
-      "display_name":"{resourcepack_name} Universal"
+  "api": {
+    "curseforge_upload": {
+      "changelog": "{github_commits}",
+      "changelogType": "html",
+      "game_versions": [4449],
+      "release_type": "release",
+      "display_name": "{resourcepack_name} Universal"
     }
   }
 }
