@@ -46,7 +46,7 @@
       "version": "1.7.x",
       "downloads": true,
       "enabled": true,
-      "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.7.x.git"
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.7.x.git"
     },
     {
       "name": "Johh Smith Modded 1.8.x",
@@ -54,7 +54,7 @@
       "version": "1.8.x",
       "downloads": true,
       "enabled": true,
-      "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.8.x.git"
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.8.x.git"
     },
     {
       "name": "Johh Smith Modded 1.9.x",
@@ -62,7 +62,7 @@
       "version": "1.9.x",
       "downloads": true,
       "enabled": true,
-      "url_repo": "https://github.com/John-Smith-Modded/JSTR-1.9.x.git"
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.9.x.git"
     }
   ],
   "resourcepacks": {
