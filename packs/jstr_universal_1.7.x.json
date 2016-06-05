@@ -1,0 +1,27 @@
+{
+  "name": "Modded Universal",
+  "slug": "universal-pack",
+  "version": "1.0.0",
+  "type": "modded_universal",
+  "provider": "soartex",
+  "enabled": true,
+  "is_public": true,
+  "minecraft": [
+    "1.7.x"
+  ],
+  "blacklist": [
+    "johnsmithsmooth"
+  ],
+  "resourcepacks": [
+    "jstr"
+  ],
+  "api": {
+    "curseforge_upload": {
+      "changelog": "{github_commits}",
+      "changelogType": "html",
+      "game_versions": [4449],
+      "release_type": "release",
+      "display_name": "{resourcepack_name} Universal"
+    }
+  }
+}
