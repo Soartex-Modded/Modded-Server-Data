@@ -23,5 +23,8 @@
       "release_type": "release",
       "display_name": "{resourcepack_name} Universal"
     }
+  },
+  "overrides": {
+	"ignore_mcmeta": true
   }
 }
