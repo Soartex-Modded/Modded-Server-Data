@@ -1,0 +1,24 @@
+{
+  "name": "Modded Universal",
+  "slug": "universal-pack",
+  "version": "1.0.0",
+  "type": "modded_universal",
+  "provider": "soartex",
+  "enabled": true,
+  "is_public": true,
+  "minecraft": [
+    "1.10.x"
+  ],
+  "resourcepacks": [
+    "fanver"
+  ],
+  "api": {
+    "curseforge_upload": {
+      "changelog": "{github_commits}",
+      "changelogType": "html",
+      "game_versions": [6144, 6160, 6170, 6239],
+      "release_type": "release",
+      "display_name": "{resourcepack_name} Universal"
+    }
+  }
+}

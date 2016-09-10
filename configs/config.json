@@ -1,12 +1,12 @@
 {
   "repositories": [
     {
-      "name": "Fanver Modded 1.8.x",
+      "name": "Fanver Modded 1.6.x",
       "provider": "fanver",
-      "version": "1.8.x",
+      "version": "1.6.x",
       "downloads": true,
       "enabled": true,
-      "url_repo": "https://github.com/Soartex-Modded/Modded-1.8.x.git"
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.6.x.git"
     },
     {
       "name": "Fanver Modded 1.7.x",
@@ -16,13 +16,21 @@
       "enabled": true,
       "url_repo": "https://github.com/Soartex-Modded/Modded-1.7.x.git"
     },
-    {
-      "name": "Fanver Modded 1.6.x",
+     {
+      "name": "Fanver Modded 1.8.x",
       "provider": "fanver",
-      "version": "1.6.x",
+      "version": "1.8.x",
       "downloads": true,
       "enabled": true,
-      "url_repo": "https://github.com/Soartex-Modded/Modded-1.6.x.git"
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.8.x.git"
+    },
+    {
+      "name": "Fanver Modded 1.10.x",
+      "provider": "fanver",
+      "version": "1.10.x",
+      "downloads": true,
+      "enabled": true,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.10.x.git"
     },
     {
       "name": "Invictus Modded 1.7.x",
@@ -67,6 +75,12 @@
   ],
   "resourcepacks": {
     "fanver": {
+      "1.6.x": {
+        "name": "Fanver",
+        "enabled": true,
+        "version": "2.6.4",
+        "url_pack": "fanver/vanilla/1.6.x/Soartex_Fanver.zip"
+      },
       "1.7.x": {
         "name": "Fanver",
         "enabled": true,
@@ -81,11 +95,19 @@
           }
         }
       },
-      "1.6.x": {
-        "name": "Fanver",
+      "1.10.x": {
+        "name": "fanver",
         "enabled": true,
-        "version": "2.6.4",
-        "url_pack": "fanver/vanilla/1.6.x/Soartex_Fanver.zip"
+        "version": "",
+        "url_pack": "",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "227770",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.10.x/"
+            }
+          }
+        }
       }
     },
     "invictus": {
