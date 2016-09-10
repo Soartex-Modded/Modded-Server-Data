@@ -98,8 +98,8 @@
       "1.10.x": {
         "name": "fanver",
         "enabled": true,
-        "version": "",
-        "url_pack": "",
+        "version": "3.0.1",
+        "url_pack": "fanver/vanilla/1.10.x/3.0.1/Soartex_Fanver.zip",
         "api": {
           "modded_universal": {
             "curseforge_upload": {
