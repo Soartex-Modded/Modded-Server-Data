@@ -96,7 +96,7 @@
         }
       },
       "1.10.x": {
-        "name": "fanver",
+        "name": "Fanver",
         "enabled": true,
         "version": "3.0.1",
         "url_pack": "fanver/vanilla/1.10.x/3.0.1/Soartex_Fanver.zip",
