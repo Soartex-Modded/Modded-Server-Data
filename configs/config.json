@@ -73,6 +73,13 @@
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.9.x.git"
     }
   ],
+  "cms_versions": {
+    "1.6.x": 3,
+    "1.7.x": 1,
+    "1.8.x": 2,
+    "1.9.x": 6,
+    "1.10.x": 11
+  },
   "resourcepacks": {
     "fanver": {
       "1.6.x": {
