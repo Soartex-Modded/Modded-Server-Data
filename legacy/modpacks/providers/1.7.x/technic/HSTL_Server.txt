@@ -1,3 +1,4 @@
+Additional_Buildcraft_Objects
 Another_One_Bites_The_Dust
 Applied_Energistics_2
 Ars_Magica_2
@@ -7,13 +8,14 @@ Binnies_Mods
 Blood_Magic
 Buildcraft
 Carpenters_Blocks
+Chisel
 CoFH_Core
 Compact_Solars
 Dimensional_Anchors
 Ender_Storage
-Extra_Utilities
 ExtraBiomesXL
 ExtraTiC
+Extra_Utilities
 Forestry
 Forge_Multipart
 Greg's_Lighting
@@ -30,12 +32,15 @@ Minefactory_Reloaded
 Natura
 Not_Enough_Items
 OpenBlocks
+OpenEye
 Project_Red
 Railcraft
 Random_Things
 Thaumcraft_4
 Thaumic_Tinkerer
+Thermal_Dynamics
 Thermal_Expansion
+Thermal_Foundation
 Tinker_Construct
 Tinker_Mechworks
 Wireless_Redstone_CBE
