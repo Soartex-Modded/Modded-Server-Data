@@ -78,7 +78,8 @@
     "1.7.x": 1,
     "1.8.x": 2,
     "1.9.x": 6,
-    "1.10.x": 11
+    "1.10.x": 11,
+	"1.11.x": 12
   },
   "resourcepacks": {
     "fanver": {
@@ -115,6 +116,20 @@
             }
           }
         }
+      },
+	  "1.11.x": {
+        "name": "Fanver",
+        "enabled": true,
+        "version": "4.0.0",
+        "url_pack": "fanver/vanilla/1.11.x/4.0.0/Soartex_Fanver.zip",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "227770",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.10.x/"
+            }
+          }
+        }
       }
     },
     "invictus": {
@@ -123,6 +138,40 @@
         "enabled": true,
         "version": "1.0",
         "url_pack": "invictus/vanilla/release/Invictus-1.0.zip",
+        "dependency": [
+          "fanver"
+        ],
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "228360",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
+            }
+          }
+        }
+      },
+	  "1.10.x": {
+        "name": "Invictus",
+        "enabled": true,
+        "version": "3.2",
+        "url_pack": "invictus/vanilla/release/Invictus-3.2.zip",
+        "dependency": [
+          "fanver"
+        ],
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "228360",
+              "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
+            }
+          }
+        }
+      },
+	  "1.11.x": {
+        "name": "Invictus",
+        "enabled": true,
+        "version": "4.0",
+        "url_pack": "invictus/vanilla/release/Invictus-4.0.zip",
         "dependency": [
           "fanver"
         ],
