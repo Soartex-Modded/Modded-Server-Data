@@ -33,6 +33,22 @@
       "url_repo": "https://github.com/Soartex-Modded/Modded-1.10.x.git"
     },
     {
+      "name": "Fanver Modded 1.11.x",
+      "provider": "fanver",
+      "version": "1.11.x",
+      "downloads": true,
+      "enabled": true,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.11.x.git"
+    },
+    {
+      "name": "Fanver Modded 1.12.x",
+      "provider": "fanver",
+      "version": "1.12.x",
+      "downloads": true,
+      "enabled": true,
+      "url_repo": "https://github.com/Soartex-Modded/Modded-1.12.x.git"
+    },
+    {
       "name": "Invictus Modded 1.7.x",
       "provider": "invictus",
       "version": "1.7.x",
@@ -49,7 +65,7 @@
       "url_repo": "https://github.com/Soartex-Modded/Soartex-Overrides-1.7.x.git"
     },
     {
-      "name": "Johh Smith Modded 1.7.x",
+      "name": "John Smith Modded 1.7.x",
       "provider": "jstr",
       "version": "1.7.x",
       "downloads": true,
@@ -57,7 +73,7 @@
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.7.x.git"
     },
     {
-      "name": "Johh Smith Modded 1.8.x",
+      "name": "John Smith Modded 1.8.x",
       "provider": "jstr",
       "version": "1.8.x",
       "downloads": true,
@@ -65,7 +81,7 @@
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.8.x.git"
     },
     {
-      "name": "Johh Smith Modded 1.9.x",
+      "name": "John Smith Modded 1.9.x",
       "provider": "jstr",
       "version": "1.9.x",
       "downloads": true,
@@ -79,7 +95,8 @@
     "1.8.x": 2,
     "1.9.x": 6,
     "1.10.x": 11,
-    "1.11.x": 12
+    "1.11.x": 12,
+    "1.12.x": 15
   },
   "resourcepacks": {
     "fanver": {
@@ -126,7 +143,20 @@
           "modded_universal": {
             "curseforge_upload": {
             "project_id": "227770",
-            "git_url": "https://github.com/Soartex-Modded/Modded-1.10.x/"
+            "git_url": "https://github.com/Soartex-Modded/Modded-1.11.x/"
+          }
+        }
+      },
+      "1.12.x": {
+        "name": "Fanver",
+        "enabled": true,
+        "version": "4.1.0",
+        "url_pack": "fanver/vanilla/1.12.x/4.1.0/Soartex_Fanver.zip",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+            "project_id": "227770",
+            "git_url": "https://github.com/Soartex-Modded/Modded-1.12.x/"
           }
         }
       }
@@ -162,7 +192,7 @@
           "modded_universal": {
             "curseforge_upload": {
             "project_id": "228360",
-            "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
+            "git_url": "https://github.com/Soartex-Modded/Modded-1.10.x/"
             }
           }
         }
@@ -179,7 +209,24 @@
           "modded_universal": {
             "curseforge_upload": {
             "project_id": "228360",
-            "git_url": "https://github.com/Soartex-Modded/Modded-1.7.x/"
+            "git_url": "https://github.com/Soartex-Modded/Modded-1.11.x/"
+            }
+          } 
+        }
+      },
+      "1.12.x": {
+        "name": "Invictus",
+        "enabled": true,
+        "version": "4.3.1",
+        "url_pack": "invictus/vanilla/release/Invictus-4.3.1.zip",
+        "dependency": [
+          "fanver"
+        ],
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+            "project_id": "228360",
+            "git_url": "https://github.com/Soartex-Modded/Modded-1.12.x/"
             }
           } 
         }
