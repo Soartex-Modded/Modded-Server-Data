@@ -7,7 +7,7 @@
   "enabled": true,
   "is_public": true,
   "minecraft": [
-    "1.9.x"
+    "1.10.x"
   ],
   "blacklist": [
     "johnsmithsmooth"
@@ -19,7 +19,7 @@
     "curseforge_upload": {
       "changelog": "{github_commits}",
       "changelogType": "html",
-      "game_versions": [6085],
+      "game_versions": [6144, 6160, 6170],
       "release_type": "release",
       "display_name": "{resourcepack_name} Universal"
     }

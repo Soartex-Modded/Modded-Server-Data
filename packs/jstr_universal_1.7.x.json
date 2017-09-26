@@ -25,6 +25,6 @@
     }
   },
   "overrides": {
-	"ignore_mcmeta": true
+	  "ignore_mcmeta": true
   }
 }
