@@ -95,6 +95,14 @@
       "downloads": true,
       "enabled": true,
       "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.10.x.git"
+    },
+    {
+      "name": "John Smith Modded 1.12.x",
+      "provider": "jstr",
+      "version": "1.12.x",
+      "downloads": true,
+      "enabled": true,
+      "url_repo": "https://github.com/John-Smith-Modded/JSTR-Modded-1.12.x.git"
     }
   ],
   "cms_versions": {
@@ -303,6 +311,22 @@
             "curseforge_upload": {
               "project_id": "223328",
               "git_url": "https://github.com/John-Smith-Modded/JSTR-Modded-1.10.x"
+            }
+          }
+        }
+      },
+      "1.12.x": {
+        "name": "JSTR",
+        "enabled": true,
+        "version": "0.0.1",
+        "url_pack": "jstr/vanilla/1.12.x/John_Smith_Legacy.zip",
+        "download_url": "https://github.com/John-Smith-Modded/JSTR-Vanilla-1.12.x/archive/master.zip",
+        "extract_src": "JSTR-Vanilla-1.12.x-master",
+        "api": {
+          "modded_universal": {
+            "curseforge_upload": {
+              "project_id": "223328",
+              "git_url": "https://github.com/John-Smith-Modded/JSTR-Modded-1.12.x"
             }
           }
         }
