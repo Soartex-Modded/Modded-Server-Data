@@ -1,18 +1,23 @@
 {
   "name": "Sky Factory 2",
-  "version": "2.5.2",
-  "type": "modded_standard",
-  "provider": "atlauncher",
+  "slug": "sky-factory-2",
+  "type": "standard",
+  "platform": "atlauncher",
   "enabled": true,
-  "is_public": true,
+  "public": true,
   "minecraft": [
     "1.7.x"
   ],
   "resourcepacks": [
     "fanver",
-    "invictus",
+    {
+      "name": "invictus",
+      "dependency": [ "fanver" ]
+    },
     "jstr"
   ],
+  "curseforge": null,
+  "blacklist": null,
   "mods": [
     "additionalresources",
     "ae2stuff",

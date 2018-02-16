@@ -1,19 +1,23 @@
 {
   "name": "FTB Infinity Evolved",
   "slug": "infinity-evolved",
-  "version": "2.2.0",
-  "type": "modded_standard",
-  "provider": "ftb",
+  "type": "standard",
+  "platform": "ftb",
   "enabled": true,
-  "is_public": true,
+  "public": true,
   "minecraft": [
     "1.7.x"
   ],
   "resourcepacks": [
     "fanver",
-    "invictus",
+    {
+      "name": "invictus",
+      "dependency": [ "fanver" ]
+    },
     "jstr"
   ],
+  "curseforge": null,
+  "blacklist": null,
   "mods": [
     "ForgeMultipart",
     "Baubles",

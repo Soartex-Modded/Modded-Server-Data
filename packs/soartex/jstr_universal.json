@@ -1,0 +1,31 @@
+{
+  "name": "Modded Universal",
+  "slug": "universal-pack",
+  "type": "universal",
+  "platform": "soartex",
+  "enabled": true,
+  "public": true,
+  "minecraft": [
+    "1.7.x",
+    "1.8.x",
+    "1.9.x",
+    "1.10.x",
+    "1.12.x"
+  ],
+  "resourcepacks": [
+    "jstr"
+  ],
+  "curseforge": {
+    "displayName": "{rp_name} Universal",
+    "versions": {
+      "1.7.x": [ 4449 ],
+      "1.10.x": [ 6144, 6160, 6170 ],
+      "1.11.x": [ 6239, 6317, 6451, 6452, 630 ],
+      "1.12.x": [ 6514, 6580, 6711, 6756 ]
+    }
+  },
+  "blacklist": [
+    "johnsmithsmooth"
+  ],
+  "mods": null
+}
