@@ -6,6 +6,7 @@
   "enabled": true,
   "public": true,
   "minecraft": [
+    "1.6.x",
     "1.7.x",
     "1.10.x",
     "1.11.x",
@@ -22,6 +23,7 @@
     "changelog": null,
     "displayName": "{rp_name} Universal",
     "versions": {
+      "1.6.x": [ 318, 320, 326 ],
       "1.7.x": [ 4449 ],
       "1.10.x": [ 6144, 6160, 6170 ],
       "1.11.x": [ 6239, 6317, 6451, 6452, 630 ],
