@@ -22,32 +22,32 @@
   ],
   "overrides": {
     "buildcraft|core": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|builders": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|energy": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|factory": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|silicon": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|transport": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     },
     "buildcraft|robotics": {
-      "6": "BuildCraft",
-      "7": "BuildCraft_7"
+      "6": "buildcraft",
+      "7": "buildcraft_7"
     }
   }
 }
