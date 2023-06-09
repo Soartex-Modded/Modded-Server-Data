@@ -6,6 +6,13 @@ http://www.minecraftforum.net/topic/150915-
 The modded patches are created by an amazing community of contributors.
 Please find them in their respective modded repositories.
 
+[1.18.x]: https://github.com/Soartex-Modded/Modded-1.18.x/graphs/contributors
+[1.16.x]: https://github.com/Soartex-Modded/Modded-1.16.x/graphs/contributors
+[1.15.x]: https://github.com/Soartex-Modded/Modded-1.15.x/graphs/contributors
+[1.12.x]: https://github.com/Soartex-Modded/Modded-1.12.x/graphs/contributors
+[1.11.x]: https://github.com/Soartex-Modded/Modded-1.11.x/graphs/contributors
+[1.10.x]: https://github.com/Soartex-Modded/Modded-1.10.x/graphs/contributors
+[1.8.x]: https://github.com/Soartex-Modded/Modded-1.8.x/graphs/contributors
 [1.7.x]: https://github.com/Soartex-Modded/Modded-1.7.x/graphs/contributors
 [1.6.x]: https://github.com/Soartex-Modded/Modded-1.6.x/graphs/contributors
 [1.5.x]: https://github.com/Soartex-Modded/Modded-1.5.x/graphs/contributors
